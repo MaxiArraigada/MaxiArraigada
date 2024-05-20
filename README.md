@@ -28,3 +28,7 @@
 <div align="center">
 <img src="/github-header-image (11).png">
 </div>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@maximoarr93667/30-nites-of-code)  
+  ![@maximoarr93667 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=maximoarr93667)
