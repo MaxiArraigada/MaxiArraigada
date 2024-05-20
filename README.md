@@ -1,5 +1,5 @@
 # Bienvenidos al GitHub de Maximo Arraigada
-## Web Developer Especilizad en Front End
+## Web Developer Especilizado en Front End
 
 <div id="header" align="center">
 
