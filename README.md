@@ -6,8 +6,6 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRrZjA1MHZ2ZzRoaDcyNHpkdzh2aGYwOWkyYXIxZ25rOHp2eHR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="370"/>
 </div>
 
-
-
 ## Skills:
 
 <p align="left">
